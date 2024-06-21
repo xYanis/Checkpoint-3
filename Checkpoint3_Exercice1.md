@@ -23,6 +23,7 @@ On va faire un clique droit sur Kelly et aller dans l'onglet move et retirer Kel
 
 Q.1.1.4
 
+On vas créer un dossier ARCHIVE pour mettre le dossier de Kelly à l'intérieur et créer un dossier pour Lionel avec les paramètres ci dessous
 
 ![2024-06-21 09_51_40-Checkpoint3-SRVWIN01  En fonction  - Oracle VM VirtualBox](https://github.com/xYanis/Checkpoint-3/assets/161461625/5a1f6fc6-2d8a-45c3-b56d-ae020cc2d6cc)
 
