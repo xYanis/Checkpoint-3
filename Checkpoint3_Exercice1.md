@@ -52,12 +52,13 @@ Clique droit / Properties / Account / Log on to et on indique le CLIENT1
 
 Q.1.2.3
 
-Nous allons crée une GPO pour créer un GPO pour avoir un minimum de 10 caractères pour les mots de passe utilisateurs
+Nous allons crée une GPO pour créer un GPO pour avoir un minimum de 10 caractères pour les mots de passe utilisateurs et qu'il soit également complexe
 
 ![2024-06-21 10_07_45-Checkpoint3-SRVWIN01  En fonction  - Oracle VM VirtualBox](https://github.com/xYanis/Checkpoint-3/assets/161461625/375a268c-baab-4cc6-bdb9-e7aa17d4ce2c)
 
 
-![2024-06-21 10_09_00-Checkpoint3-SRVWIN01  En fonction  - Oracle VM VirtualBox](https://github.com/xYanis/Checkpoint-3/assets/161461625/3ae76da0-7cb2-4324-8caa-e48b20cf0304)
+![2024-06-21 10_49_51-Checkpoint3-SRVWIN01  En fonction  - Oracle VM VirtualBox](https://github.com/xYanis/Checkpoint-3/assets/161461625/153012d5-0373-4d53-b026-5f23b322ec2d)
+
 
 
 
