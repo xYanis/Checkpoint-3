@@ -134,7 +134,6 @@ La commande est `vgisplay` ou `vgs` donc 1,79GB
 
 
 
-
 Q.2.4.1
 
 Director (bareos-dir) : Gère la configuration, la planification et les métadonnées.
